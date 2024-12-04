@@ -16,3 +16,10 @@
 .md-typeset ul {
   font-size: 15px;
 }
+
+@media only screen and (max-width: 768px) {
+.md-grid {
+  margin-right: 20px;
+  margin-left: 20px; 
+}
+}
